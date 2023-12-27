@@ -1,1 +1,1 @@
-console.log("ping")
+const test = "test";
